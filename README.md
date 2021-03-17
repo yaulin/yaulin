@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaulin
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Embedded Linux
+- 👀 I’m interested in Python, Data Science
+- 🌱 I’m currently learning Embedded Systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail@yaulin.net
 
