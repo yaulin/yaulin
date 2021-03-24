@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yaulin
-- 👀 I’m interested in Python, Data Science
+- 👀 I’m interested in Python, Data Science, Linux
 - 🌱 I’m currently learning Embedded Systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail@yaulin.net
