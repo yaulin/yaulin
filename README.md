@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Data Science, Linux
 - 🌱 I’m currently learning Embedded Systems, C/C++/C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail@yaulin.net
+- 📫 How to reach me yaroslav.v.aulin@gmail.com
 
 <!---
 yaulin/yaulin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
