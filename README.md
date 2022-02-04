@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaulin
-- 👀 I’m interested in Python, Data Science, Linux
-- 🌱 I’m currently learning C/C++
+- 👀 I’m interested in Python, C/C++, Linux, Electronics, Optics
+- 🌱 I’m currently learning embedded systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yaroslav.v.aulin@gmail.com
 
