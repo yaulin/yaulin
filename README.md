@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yaulin
-- 👀 I’m interested in Python, C/C++, Linux, Electronics, Optics
+- 👀 I’m interested in Python, C/C++, Linux, Electronics, Optics, Chemistry
 - 🌱 I’m currently learning embedded systems
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yaroslav.v.aulin@gmail.com
 
 <!---
 yaulin/yaulin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
